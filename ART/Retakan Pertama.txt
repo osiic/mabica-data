@@ -1,0 +1,17 @@
+Judul: Retakan Pertama
+
+🖼️ Alt Text Standar (Aksesibilitas)
+
+Ilustrasi hitam-putih close-up wajah seorang perempuan berambut panjang gelap dengan ekspresi tegang dan mata terbuka lebar, seolah sedang menyadari sesuatu yang mengejutkan. Terdapat garis kecil di sekitar kepalanya yang memberi kesan gemetar atau gugup.
+
+🎭 Alt Text Emosional
+
+Wajahnya tampak tegang dan terpaku, mata membesar dengan kesadaran yang datang terlalu tiba-tiba.
+
+🎬 Alt Text Naratif
+
+Close-up seorang perempuan yang baru saja memahami sesuatu yang mengubah segalanya.
+
+⚡ Alt Text Singkat (≤125 karakter, ramah screen reader)
+
+Close-up perempuan dengan ekspresi terkejut dan tegang dalam ilustrasi hitam-putih.
